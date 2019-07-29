@@ -1,0 +1,11 @@
+[user]
+	email = khannon11@gmail.com
+	name = Kyle Hannon
+
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	up = pull --rebase
+    staged = diff --staged
+    amend = commit --amend
